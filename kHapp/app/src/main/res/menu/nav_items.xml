@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_home"
+        android:enabled="true"
+        android:icon="@drawable/ic_book"
+        android:title="Home"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_puzzle"
+        android:enabled="true"
+        android:icon="@drawable/ic_book"
+        android:title="Puzzle"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_lore"
+        android:enabled="true"
+        android:icon="@drawable/ic_book"
+        android:title="Lore"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_soundboard"
+        android:enabled="true"
+        android:icon="@drawable/ic_book"
+        android:title="Soundboard"
+        app:showAsAction="ifRoom" />
+</menu>
